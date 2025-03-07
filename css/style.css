@@ -6171,7 +6171,9 @@ button.bg-dark:focus {
 
 .mb-4,
 .my-4 {
-  margin-bottom: 1.5rem !important; }
+  margin-bottom: 1.5rem !important; 
+  
+  }
 
 .ml-4,
 .mx-4 {
@@ -7820,8 +7822,9 @@ h1, h2, h3, h4, h5,
   border-bottom: 4px solid #ffe1e1; }
 
 .ftco-services {
-  margin-top: -50px;
-  padding-bottom: 5em; }
+  margin-top: 0px;
+  padding-top: 4em;
+  padding-bottom: 4em; }
   .ftco-services .services {
     display: block;
     width: 100%;
@@ -7835,7 +7838,7 @@ h1, h2, h3, h4, h5,
       position: relative;
       width: 100px;
       height: 100px;
-      background: #ffcdcd;
+      background: #5a6268;
       -webkit-border-radius: 50%;
       -moz-border-radius: 50%;
       -ms-border-radius: 50%;
@@ -8059,7 +8062,6 @@ textarea.form-control {
   font-size: 24px; }
 
 .ftco-section {
-  padding: 6em 0;
   position: relative; }
 
 .ftco-bg-dark {
